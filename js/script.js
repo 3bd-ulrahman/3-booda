@@ -23,7 +23,7 @@ var typeWriter = setInterval(function () {
 
 
 
-var CONTENT =  "Full-Stack web developer" , // List of sentences
+var CONTENT =  "Backend developer" , // List of sentences
  	PART_INDEX = 0, // Character number of the current sentence being processed 
  	INTERVAL_VAL, // Holds the handle returned from setInterval
  	ELEMENT = document.querySelector("#text"), // Element that holds the text
